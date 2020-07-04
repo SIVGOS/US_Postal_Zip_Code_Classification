@@ -5,3 +5,4 @@ One of the most difficult database of handwritten image recognition.
 I am using Convolutional Neural Network. The test accuracy achieved is 96%.
 If someone can get a better accuracy please contact me. My email id: gos_coder@outlook.com
 
+PS: The program automatically downloads the database from URL.
